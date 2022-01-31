@@ -2,7 +2,7 @@
 <html lang="fr">
 <?php
 	include_once('BDD/connectBdd.php'); // on inclut le fichier de connexion à la base de donnée
-	include('routes.php'); // on inclut le routeur lald
+	include('routes.php'); // on inclut le routeur 
 ?>
 
 
